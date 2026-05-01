@@ -1,0 +1,3 @@
+# Android-specific ignores (optional separation)
+build/
+captures/

@@ -1,0 +1,22 @@
+## Gradle files
+**/build/
+!**/src/**/build/
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+## Local env
+local.properties
+*.iml
+.idea/
+
+## APKs
+*.apk
+*.aab
+
+## OS files
+.DS_Store
+.DS_Store?
+.Trashes
+.VolumeIcon.icns
+._*
